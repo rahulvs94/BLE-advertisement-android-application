@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Key</string>
+    <string name="turnon5">Turn ON</string>
+    <string name="turnoff5">Turn OFF</string>
+    <string name="advertise5">Advertise</string>
+    <string name="ble_uuid">00002902-0000-1000-8000-00805f9b34fb</string>
+</resources>
